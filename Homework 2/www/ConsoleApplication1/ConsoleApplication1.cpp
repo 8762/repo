@@ -281,6 +281,7 @@ int main()
 		p.Add();
 	else if (a == '*')
 		p.Mult();
+	cout << "p1+p2=";
 	cout << p;
 }
 
