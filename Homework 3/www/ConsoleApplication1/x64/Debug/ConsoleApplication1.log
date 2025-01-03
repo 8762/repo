@@ -1,0 +1,5 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\sds50\Desktop\hw3\repo-main\Homework 3\www\ConsoleApplication1\ConsoleApplication1.cpp(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\sds50\Desktop\hw3\repo-main\Homework 3\www\ConsoleApplication1\ConsoleApplication1.cpp(193,12): warning C4244: 'return': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\sds50\Desktop\hw3\repo-main\Homework 3\www\ConsoleApplication1\ConsoleApplication1.cpp(286,19): warning C4244: '=': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  ConsoleApplication1.vcxproj -> C:\Users\sds50\Desktop\hw3\repo-main\Homework 3\www\x64\Debug\ConsoleApplication1.exe
