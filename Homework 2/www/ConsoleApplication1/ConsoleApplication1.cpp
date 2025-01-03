@@ -58,14 +58,14 @@ public:
 		while (tem1) {
 
 			coef = tem1->coef;
-			exp = tem1->coef;
+			exp = tem1->exp;
 			tem1 = tem1->top;
 			in(exp, coef, 2);
 		}
 		while (tem2) {
 
 			coef = tem2->coef;
-			exp = tem2->coef;
+			exp = tem2->exp;
 			tem2 = tem2->top;
 			in(exp, coef, 2);
 		}
@@ -281,7 +281,7 @@ int main()
 		p.Add();
 	else if (a == '*')
 		p.Mult();
-	cout << "p1+p2=";
+	cout << "p1"<<a<<"p2=";
 	cout << p;
 }
 
